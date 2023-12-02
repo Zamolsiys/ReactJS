@@ -1,8 +1,0 @@
-Your identification has been saved in /home/ilynnir/.ssh/id_rsa
-Your public key has been saved in /home/ilynnir/.ssh/id_rsa.pub
-The key fingerprint is:
-SHA256:WiPt2mzcoT1Z5GWIwerHoe1esuxTs2Nsw2BP7fi3CvA ilynnir@ilynnir-Latitude-E5440
-
-
-Acces token 
-glpat-yrzmgtKzZH9rw1RRX6hM
